@@ -5,4 +5,4 @@ Vajadzības - zoodarza kataloga veidošana strādniekiem
 Lietotāji - zoodarza dārbnieki
 
 Protatipu funkcijas:
-Vairāku informaciju pievienošana un labošana, un noņemšana
+informāciju pievienošana un labošana, un noņemšana
