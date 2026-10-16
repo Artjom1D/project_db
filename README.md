@@ -6,3 +6,8 @@ Lietotāji - zoodarza dārbnieki
 
 Protatipu funkcijas:
 informāciju pievienošana un labošana, un noņemšana
+
+IZMAIŅAS
+has_free BLOB -> has_vacation BOOLEAN
+free_id -> vacation_id
+table name "free" -> table now called "vacation" 
