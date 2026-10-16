@@ -8,7 +8,7 @@ Protatipu funkcijas:
 informāciju pievienošana un labošana, un noņemšana
 
 IZMAIŅAS
-\n has_free BLOB -> has_vacation BOOLEAN
-\nfree_id -> vacation_id
-\ntable name "free" -> table now called "vacation" 
-\ntable "vacation" has no more row "name"
+has_free BLOB -> has_vacation BOOLEAN
+free_id -> vacation_id
+table name "free" -> table now called "vacation" 
+table "vacation" has no more row "name"
